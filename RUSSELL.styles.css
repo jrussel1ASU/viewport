@@ -1,4 +1,4 @@
-/* James Eric Russell*/
+/* CSS by James Eric Russell*/
 
 /* --------------- ADD CSS RESET TO THE FILE HERE --------------- */
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -82,13 +82,7 @@ table {
 /* CHANGE THE BODY'S BACKGROUND COLOR TO THE DARK GRAY IF THE USER PREFERS DARK MODE */
 
 /* --------------- END USER PREFERS DARK COLOR SCHEME QUERY --------------- */
-@media (prefers-color-scheme:dark){
-    html{
-        background-color: darkgray;
-        
-    }
-    
-}
+
 
 
 /* ----- HEADINGS ----- */
@@ -203,6 +197,7 @@ img{
 
 /* ---------- SMALL SCREEN STYLES ---------- */
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
+
     /* header, footer{
         background-color: var(--lime-green);
         color: var(--dark-gray);
